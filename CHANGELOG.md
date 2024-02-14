@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/rumath/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-14)
+
+
+### Features
+
+* version artifact ([7886ba9](https://github.com/rumath/greetings-ci/commit/7886ba9225ce7c72e93d7c473315d1f38cc0afa1))
+
+
+
 # [0.4.0](https://github.com/rumath/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-14)
 
 
