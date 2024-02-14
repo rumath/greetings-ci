@@ -11,7 +11,7 @@ on:
   push:
     branches: [ "main", "changelog3" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "changelog3" ]
 
 jobs:
   build:
