@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/rumath/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-14)
+
+
+### Features
+
+* add testing to pipeline ([03b9161](https://github.com/rumath/greetings-ci/commit/03b916103ccc5349c148e1f8751040c33f498107))
+
+
+
 # [0.5.0](https://github.com/rumath/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-14)
 
 
