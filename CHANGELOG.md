@@ -1,4 +1,13 @@
-# 0.3.0 (2024-02-14)
+# [0.4.0](https://github.com/rumath/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-14)
+
+
+### Features
+
+* upload artifact ([4b87426](https://github.com/rumath/greetings-ci/commit/4b874266df3314c62012602bf4e9f86b284e9b30))
+
+
+
+# [0.3.0](https://github.com/rumath/greetings-ci/compare/188b5baa55fa232e25fb36e5d9d2735fb6c3c17d...v0.3.0) (2024-02-14)
 
 
 ### Bug Fixes
