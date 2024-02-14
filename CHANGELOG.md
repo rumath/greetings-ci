@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/rumath/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-14)
+
+
+### Features
+
+* add update to workflow settings ([843bfc2](https://github.com/rumath/greetings-ci/commit/843bfc2d30ea99c723fca53187a0546b2d4f234e))
+
+
+
 # [0.6.0](https://github.com/rumath/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-14)
 
 
