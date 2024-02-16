@@ -91,7 +91,7 @@ jobs:
     uses: ./.github/workflows/create-failure-issue.yml
     with:
       title: "Automated workflow failure issue for comit ${{ github.sha}}"
-      body: "This issue was automatically created by the GitHub Action workflow ** ${{ gitbub.workflow }} **"
+      body: "This issue was automatically created by the GitHub Action workflow ** ${{ github.workflow }} **"
         
     # NOTE: The Gradle Wrapper is the default and recommended way to run Gradle (https://docs.gradle.org/current/userguide/gradle_wrapper.html).
     # If your project does not have the Gradle Wrapper configured, you can use the following configuration to run Gradle with a specified version.
